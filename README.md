@@ -49,16 +49,10 @@ The Macro preprocessor supports :
 
 2. Download or clone the project
 
-3. Install Colorama
-
-    ```
-    $ pip install colorama
-    ```
-
-4. Run the acpmac.py file adding the name of the file to be processed as a parameter. Make sure the file to be processed is in the same directory as of acpmac.py.
+3. Run the acpmac.py file adding the name of the file to be processed as a parameter. Make sure the file to be processed is in the same directory as of acpmac.py.
 
     ```
     $ python3 acpmac.py <file_name>
     ```
 
-5. The output will be a preprocessed file which will be displayed on the terminal
+4. The output will be a preprocessed file which will be displayed on the terminal
