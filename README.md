@@ -45,11 +45,11 @@ The Macro preprocessor supports :
 
 ## 🛠 Installation & Set Up
 
-1. Setup Python3 on System
+1. Setup Python3 on system
 
 2. Download or clone the project
 
-3. Install Colorama.
+3. Install Colorama
 
     ```
     $ pip install colorama
